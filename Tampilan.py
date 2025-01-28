@@ -1,6 +1,6 @@
-# Encrypted by Panglima Jatim
-# Time = Jember error system
-# Peringatan Jangan di rubah code nya hargai Pembuatnya
+# Encrypted Sanzei Soft
+# Time = Probolinggo Error System
+# 私のサンヂィともします　プログラムが大好き
 
 
 import marshal
